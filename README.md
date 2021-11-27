@@ -5,4 +5,4 @@ The rice is usually pan-fried with ketchup and chicken, then wrapped in a thin s
 
 The softly-cooked omelette and sweet tomato-flavored rice complements each other very well, so I hope you will enjoy this quick and easy recipe!
 
-Note : You can get this recipie [here](https://github.com/SoulFang-tech/MyRecipies/blob/main/recipe.md) and ingedients are listed [here](https://github.com/SoulFang-tech/MyRecipies/blob/main/ingridients.md) 
+Note : You can get this recipie [here](https://github.com/SoulFang-tech/MyRecipies/blob/main/recipe.md) and ingedients are listed [here](https://github.com/SoulFang-tech/MyRecipies/blob/main/ingredients.md) 
