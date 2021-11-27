@@ -4,4 +4,4 @@ Omurice is a popular contemporary Japanese fusion creation blending Western omel
 The rice is usually pan-fried with ketchup and chicken, then wrapped in a thin sheet of egg omelette. From preparation to completion only takes a quick 20 minutes. It’s one of my children’s favorite meals with fried rice, eggs, and lots of ketchup.
 
 The softly-cooked omelette and sweet tomato-flavored rice complements each other very well, so I hope you will enjoy this quick and easy recipe!
-Note you can get this recipie [here](../recipe.md)
+Note you can get this recipie [here](https://soulfang-tech.github.io/MyRecipies/ingredients.md)
