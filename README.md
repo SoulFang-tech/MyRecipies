@@ -1,4 +1,4 @@
-# Omu rice recipies
+# Omu rice recipie
 '''
 Ingredients for 1 person <Sausage Rice> ・6 Ounce of Steamed Rice ・1/4 Onion ・1/4 Bell Pepper ・2 Sausages ・A moderate amount of Ketchup ・A pinch of Pepper and Salt
 
